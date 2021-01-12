@@ -1,3 +1,4 @@
+
 package org.techtown.todolist;
 
 import android.content.Context;
@@ -19,7 +20,7 @@ public class MainFragment extends Fragment {
     private static final String TAG = "MainFragment";
 
     RecyclerView recyclerView;
-    NoteAdapter adapter;
+    NoteAdapter adapter;:
     Context context;
 
     SwipeRefreshLayout swipeRefreshLayout;
